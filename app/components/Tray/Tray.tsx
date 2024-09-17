@@ -1,6 +1,5 @@
 "use client";
 
-import styles from './Tray.module.css';
 import { useState } from "react";
 import { Drawer } from 'vaul';
 import { Button } from "@/components/ui/button"
